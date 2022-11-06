@@ -58,7 +58,11 @@ async def event(interaction: Interaction):
     	await interaction.response.send_message(content=cmd[0], embed=cmd[1])
     
 	
-	
+@application_checks.check_any(applications_checks.has_role(1017787961011605594), is_owner())
+@client.slash_command(description="Gaw manager")
+async def gaw(interaction: Interaction):
+	cmd = loadCmd('gaw')
+    	await interaction.response.send_message(content=cmd[0], embed=cmd[1])
 	
 	
 	
