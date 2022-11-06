@@ -1,0 +1,26 @@
+{
+    "content": "<@&1035504134155153429>",
+    "embeds": [
+        {
+            "title": "New Giveaway !!!",
+            "description": "There's a new giveaway !!! Join up! REMEMBER TO THANK DONATOR IN <#1017788067060400210> _Donate for more 😉_",
+            "color": 4321431,
+            "timestamp": "2022-01-01T00:00:00.000Z",
+            "url": "https://discord.com",
+            "author": {
+                "name": "The Sunrise Highway",
+                "url": "https://discord.com",
+                "icon_url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "thumbnail": {
+                "url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "image": {
+                "url": ""
+            },
+            "footer": {
+                "text": "The Sunrise Highway 2022 ©️",
+                "icon_url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "fields": []
+        }
