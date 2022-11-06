@@ -1,0 +1,26 @@
+{
+    "content": "<@&1017788025457090580>",
+    "embeds": [
+        {
+            "title": "New Event !!!",
+            "description": "There's a new RUMBLE event!!! Join up!",
+            "color": 4321431,
+            "timestamp": "2022-01-01T00:00:00.000Z",
+            "url": "https://discord.com",
+            "author": {
+                "name": "The Sunrise Highway",
+                "url": "https://discord.com",
+                "icon_url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "thumbnail": {
+                "url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "image": {
+                "url": ""
+            },
+            "footer": {
+                "text": "The Sunrise Highway 2022 ©️",
+                "icon_url": "https://i.ibb.co/zZnsyr3/guildicon.png"
+            },
+            "fields": []
+        }
